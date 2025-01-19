@@ -1,16 +1,18 @@
-## Hi there 👋
+<div id="header" align="center">
+ 
+<img src="https://files.catbox.moe/9r3tuc.png">
 
-<!--
-**KK4WA/KK4WA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⁺　𓏏𓏏ひと夏の出来事さ ほろ苦い片思い𓏏𓏏　⁺  
+    今も思い出すよ そんなヱンドホリデヰ   
+    ︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵  
+<a href="https://k4waa.straw.page"><img src="https://github.com/user-attachments/assets/30aa24c7-f37b-42b4-a4c6-48e365a6502f"></a>  
+_**Always offtab**_ (prob playing, drawing or doing other stuff).  
+**﹔﹒ʚɞ**I'm not used to talking a lot  
+   ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sklxnbynidunzbixk3n215d9s&cover_image=true&theme=novatorem&show_offline=false&background_color=454545&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-Here are some ideas to get you started:
+<img src="https://files.catbox.moe/jgq5lg.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  
+<p align="center"
