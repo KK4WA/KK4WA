@@ -9,7 +9,7 @@
 _**Always offtab**_ (prob playing GI, drawing or doing other stuff).  
 **﹔﹒ʚɞ**I'm not used to talking a lot  
    ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sklxnbynidunzbixk3n215d9s&cover_image=true&theme=novatorem&show_offline=false&background_color=454545&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sklxnbynidunzbixk3n215d9s&cover_image=true&theme=novatorem&show_offline=false&background_color=2d2d2d&interchange=false&bar_color=8f8f8f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://files.catbox.moe/jgq5lg.png">
 
